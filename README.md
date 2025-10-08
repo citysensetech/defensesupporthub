@@ -26,8 +26,6 @@ POC C — Forensic Pipeline: captura e preservação de evidências para cadeia 
 
 ## Considerações legais, éticas e de governança
 
-Qualquer ação que envolva neutralização, interferência de comunicações (jamming), tomada de controlo ou destruição é altamente regulada e normalmente restrita a órgãos do Estado com autorizações específicas; não posso orientar sobre isso.
-
+## Qualquer ação que envolva neutralização, interferência de comunicações (jamming), tomada de controlo ou destruição é altamente regulada e normalmente restrita a órgãos do Estado com autorizações específicas; NÃO É O OBJETVO DESSA POC.
 ## Requer acordos formais com Ministérios, Anac/Decea e controle de exportação/compartilhamento de tecnologia sensível.
-
 ## Necessidade de comitê de ética, compliance e auditoria independente para uso de vigilância e potencial risco a direitos civis.
